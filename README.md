@@ -1,3 +1,5 @@
 - 👋 Hi, I’m ThomasBreen135
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently taking the CS50 online course and taking AP Computer Science Principles at my school
+- 👀 I’m not sure what in computer science is most interesting to me
+- 🌱 I’m currently looking to build my skills in python, and learn javascript or HTML
+- 🎓 Scored a 4 on AP CSP, currently taking AP CSA
+- ☕ Looking to learn C and C++ in the coming years
